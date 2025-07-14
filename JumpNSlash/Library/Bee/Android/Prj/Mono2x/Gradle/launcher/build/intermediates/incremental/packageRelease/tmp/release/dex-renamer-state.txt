@@ -1,0 +1,4 @@
+#Mon Jul 14 00:21:59 PDT 2025
+base.0=C\:\\Semester 6\\GAME\\JumpNSlash\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
