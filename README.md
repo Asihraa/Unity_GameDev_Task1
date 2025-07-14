@@ -1,2 +1,2 @@
-~ Jump N'Slash. ~
-Nama folder masih menggunakan nama folder yang lama(pada saat awal praktek), tetapi content sudah disesuaikan.
+~ Jump N'Slash ~
+Nama repo masih menggunakan nama repo/folder yang lama(pada saat awal praktek), tetapi content sudah disesuaikan.
